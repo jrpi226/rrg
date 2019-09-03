@@ -5,6 +5,8 @@
 Red River Reorge is a National Natural Ladmark
 It is host to a complex canyon system with high sandstone cliffs, rock shelters, waterfalls, and natural bridges
 
+My favorite location in Red River Gorge is Chimney Top Rock because of the enjoyable hike it takes to get to the rock, and the impressive view you see from the top.
+
 <!-- Link to web page -->
 [My map of the Hoenn Region from the Pokemon video games!](https://bulbapedia.bulbagarden.net/wiki/File:Hoenn_ORAS.png)
 
