@@ -16,6 +16,7 @@ My favorite location in Red River Gorge is Chimney Top Rock because of the enjoy
 <!-- Mudkip - a Pokemon you can find in the Hoenn Region! -->
 <!-- Display PNG image from a different server. Notice the exclamation mark ! -->
 ![Mudkip - a Pokemon you can find in the Hoenn Region!](https://preview.redd.it/fpbhjrmaqvn21.jpg?width=640&crop=smart&auto=webp&s=93013bd222ff175b71257f8c8c003ad473e81d7e)    
+*Chimney Top — Photograph by Freeman Kelly*
 
 
 
