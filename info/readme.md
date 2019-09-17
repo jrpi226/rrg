@@ -8,7 +8,9 @@ It is host to a complex canyon system with high sandstone cliffs, rock shelters,
 My favorite location in Red River Gorge is Chimney Top Rock because of the enjoyable hike it takes to get to the rock, and the impressive view you see from the top.
 
 <!-- Link to web page -->
-[My map of the Hoenn Region from the Pokemon video games!](https://bulbapedia.bulbagarden.net/wiki/File:Hoenn_ORAS.png)
+<!-- [My map of the Hoenn Region from the Pokemon video games!](https://www.alltrails.com/explore/us/kentucky/pine-ridge) -->
+
+[AllTrails map of the Red River Gorge](https://www.alltrails.com/explore/us/kentucky/pine-ridge)
 
 <!-- Heading 1 -->
 Mudkip - a Pokemon you can find in the Hoenn Region!
