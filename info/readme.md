@@ -1,9 +1,9 @@
 <!-- Heading 1 -->
 # Red River Gorge GIS Exploration
 
-<!-- Pharagraph 1 -->
-Red River Reorge is a National Natural Ladmark
-It is host to a complex canyon system with high sandstone cliffs, rock shelters, waterfalls, and natural bridges
+<!-- Paragraph 1 -->
+Red River Gorge is a National Natural Landmark.
+It is host to a complex canyon system with high sandstone cliffs, rock shelters, waterfalls, and natural bridges.
 
 My favorite location in Red River Gorge is Chimney Top Rock because of the enjoyable hike it takes to get to the rock, and the impressive view you see from the top.
 
