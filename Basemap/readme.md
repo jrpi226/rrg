@@ -1,4 +1,4 @@
-#Field Work
+# Field Work
 John Pike, October 2019, Red River Gorge, Kentucky
 We are studying Courthouse Rock 
 Courthouse Rock is a popular landmark in the Red River Gorge state park. You can reach Courthouse Rock by taking the Auxier Ridge. The rock is dome shaped. 
